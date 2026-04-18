@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TaxiMitla</string>
+    <string name="title_activity_main">TaxiMitla</string>
+    <string name="package_name">com.taximitla.app</string>
+    <string name="custom_url_scheme">com.taximitla.app</string>
+    <string name="developer_credits">Desarrollado por JCesar By SynkData - Senior Developer</string>
+</resources>
